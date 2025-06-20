@@ -11,17 +11,17 @@
 11. Functions, declaration of functions. (completed)
 12. Global variables. (completed)
 13. Learning variadic functions. (completed)
-14. #include
-15. #define
-16. #if, #elseif
-17. #endif
-18. How .h and .c files work with each other, how to create our own .h/.c file library.
-19. How Left shift works.
-20. How "~=" can be used to toggle a bit.
-21. Uint8_t, uint16_t, uint32_t, uint64_t.
-22. Structs
-23. Typedefs.
-24. Use of "->" and "." to access struct members. 
+14. #include    (completed)
+15. #define (completed)
+16. #if, #elseif    (completed)
+17. #endif  (completed) (#pragma once)
+18. How .h and .c files work with each other, how to create our own .h/.c file library. (completed)
+19. How Left shift works. (completed)
+20. How "~=" can be used to toggle a bit. (completed)
+21. Uint8_t, uint16_t, uint32_t, uint64_t. (completed)
+22. Structs. (completed)
+23. Typedefs. (completed)
+24. Use of "->" and "." to access struct members. (completed) 
 
 Code(yourself) and run these logics: 
 1. smallest number between 3 numbers. (completed)
@@ -32,11 +32,11 @@ Code(yourself) and run these logics:
 6. Factorial.   (completed)
 7. Addition of 10 numbers. (completed)
 8. ATM withrawal program.
-9. Writing & reading to/from a file.
+9. Writing & reading to/from a file. (completed)
 10. Merge sort. (completed)
 11. Insertion sort. (completed)
-12. Creating right angled triangle pattern using "*"
-13. Linked list.
+12. Creating right angled triangle pattern using "*" (completed)
+13. Linked list.(completed)
 14. Binary search. (completed)
 
 Try building these logics by yourself without checking online code. We want expert logic building skills. Struggle hard. 
